@@ -14,7 +14,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://164a9645-a9fd-4ea7-98f4-add8b35e39da@104.18.51.47:80?encryption=none&security=none&sni=node.dudulove61.workers.dev&fp=randomized&type=ws&host=node.dudulove61.workers.dev&path=%2F%3Fed%3D2048#node.dudulove61.workers.dev
+vless://164a9645-a9fd-4ea7-98f4-add8b35e39da@172.64.137.11:80?encryption=none&security=none&sni=node.dudulove61.workers.dev&fp=randomized&type=ws&host=node.dudulove61.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92node.dudulove61.workers.dev
 vless://164a9645-a9fd-4ea7-98f4-add8b35e39da@172.64.137.11:80?encryption=none&security=none&sni=node.dudulove61.workers.dev&fp=randomized&type=ws&host=node.dudulove61.workers.dev&path=%2F%3Fed%3D2048#node.dudulove61.workers.dev-clone
 vless://164a9645-a9fd-4ea7-98f4-add8b35e39da@104.26.5.56:2086?encryption=none&security=none&sni=node.dudulove61.workers.dev&fp=randomized&type=ws&host=node.dudulove61.workers.dev&path=%2F%3Fed%3D2048#US
 vless://7f14e42a-f453-4c39-a762-019ee493237d@8.218.245.116:41528?encryption=none&security=tls&sni=zhongkui.pages.dev&fp=random&type=ws&host=zhongkui.pages.dev&path=%2F%3Fend%3D%40warp_key#%F0%9F%94%92HK-TG%E9%A2%91%E9%81%93%40Warp_Key
