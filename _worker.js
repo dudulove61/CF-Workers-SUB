@@ -17,11 +17,10 @@ let MainData = `
 vless://164a9645-a9fd-4ea7-98f4-add8b35e39da@104.18.51.47:80?encryption=none&security=none&sni=node.dudulove61.workers.dev&fp=randomized&type=ws&host=node.dudulove61.workers.dev&path=%2F%3Fed%3D2048#node.dudulove61.workers.dev
 vless://164a9645-a9fd-4ea7-98f4-add8b35e39da@172.64.137.11:80?encryption=none&security=none&sni=node.dudulove61.workers.dev&fp=randomized&type=ws&host=node.dudulove61.workers.dev&path=%2F%3Fed%3D2048#node.dudulove61.workers.dev-clone
 vless://164a9645-a9fd-4ea7-98f4-add8b35e39da@104.26.5.56:2086?encryption=none&security=none&sni=node.dudulove61.workers.dev&fp=randomized&type=ws&host=node.dudulove61.workers.dev&path=%2F%3Fed%3D2048#US
-
+https://sub.xf.free.hr/auto
 `
 
-let urls = [https://sub.kaiche.tk/?token=auto/7f14e42a-f453-4c39-a762-019ee493237d
-	    https://sub.kaiche.tk/?token=auto?host=https://sub.kaiche.tk/?token=auto&uuid=7f14e42a-f453-4c39-a762-019ee493237d];
+let urls = [];
 
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"; //订阅配置文件
