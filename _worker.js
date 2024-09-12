@@ -17,13 +17,9 @@ let MainData = `
 vless://164a9645-a9fd-4ea7-98f4-add8b35e39da@172.64.137.11:80?encryption=none&security=none&sni=node.dudulove61.workers.dev&fp=randomized&type=ws&host=node.dudulove61.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%94%92node.dudulove61.workers.dev
 vless://164a9645-a9fd-4ea7-98f4-add8b35e39da@172.64.137.11:80?encryption=none&security=none&sni=node.dudulove61.workers.dev&fp=randomized&type=ws&host=node.dudulove61.workers.dev&path=%2F%3Fed%3D2048#node.dudulove61.workers.dev-clone
 vless://164a9645-a9fd-4ea7-98f4-add8b35e39da@104.26.5.56:2086?encryption=none&security=none&sni=node.dudulove61.workers.dev&fp=randomized&type=ws&host=node.dudulove61.workers.dev&path=%2F%3Fed%3D2048#US
-vless://7f14e42a-f453-4c39-a762-019ee493237d@8.218.245.116:41528?encryption=none&security=tls&sni=zhongkui.pages.dev&fp=random&type=ws&host=zhongkui.pages.dev&path=%2F%3Fend%3D%40warp_key#%F0%9F%94%92HK-TG%E9%A2%91%E9%81%93%40Warp_Key
-vless://7f14e42a-f453-4c39-a762-019ee493237d@47.242.147.15:56277?encryption=none&security=tls&sni=zhongkui.pages.dev&fp=random&type=ws&host=zhongkui.pages.dev&path=%2F%3Fend%3D%40warp_key#%F0%9F%94%92HK-TG%E9%A2%91%E9%81%93%40Warp_Key
-vless://7f14e42a-f453-4c39-a762-019ee493237d@47.243.200.219:35002?encryption=none&security=tls&sni=zhongkui.pages.dev&fp=random&type=ws&host=zhongkui.pages.dev&path=%2F%3Fend%3D%40warp_key#%F0%9F%94%92HK-TG%E9%A2%91%E9%81%93%40Warp_Key
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.243.106.124:34184?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#HongKong-HKG-AS45102-Alibaba
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.243.106.124:34184?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#HK-HongKong-Alibaba
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.150.72.226:20101?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#Taipei-TPE-AS396982-GoogleCloud
-
+https://vless.fxxk.dedyn.io/auto
+https://sub.kaiche.tk/?token=auto
 `
 
 let urls = [];
